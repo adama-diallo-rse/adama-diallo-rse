@@ -1,16 +1,16 @@
-# Adama Diallo — RSE × Data × Automatisation
+# Adama Diallo - RSE × Data × Automatisation
 
 Étudiant M2 RSE & Développement Durable à l'UPEC, je construis des outils qui automatisent le reporting ESG et rendent la donnée durabilité exploitable.
 
-Mon positionnement : **je suis à l'intersection de la RSE et de la tech** — je comprends les enjeux réglementaires (CSRD, ESRS, Bilan GES) et je sais les traduire en solutions data et automation concrètes.
+Mon positionnement : **je suis à l'intersection de la RSE et de la tech** - je comprends les enjeux réglementaires (CSRD, ESRS, Bilan GES) et je sais les traduire en solutions data et automation concrètes.
 
 ## 🔧 Ce que je sais faire
 
-**Automatisation & Data** — Make.com (certifié Advanced), Excel avancé, Power BI, API REST/JSON, Python, Google Workspace
+**Automatisation & Data** - Make.com (certifié Advanced), Excel avancé, Power BI, API REST/JSON, Python, Google Workspace
 
-**RSE & Reporting ESG** — CSRD/ESRS, double matérialité, Scopes 1-2-3, BEGES, KPI extra-financiers, taxonomie européenne
+**RSE & Reporting ESG** - CSRD/ESRS, double matérialité, Scopes 1-2-3, BEGES, KPI extra-financiers, taxonomie européenne
 
-**Langues** — Français (natif) · English (bilingual) · Español (avanzado)
+**Langues** - Français (natif) · English (bilingual) · Español (avanzado)
 
 ## 📂 Projets portfolio
 
