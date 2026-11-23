@@ -50,9 +50,9 @@ J'y réponds par deux chantiers : rendre chaque chiffre de durabilité défendab
 
 ## Parcours
 
-J'ai grandi à Ziguinchor, en Casamance, et je suis arrivé en France en 2020. BTS informatique, licence d'administration et échanges internationaux, puis master Sustainability and Green Business à l'UPEC. J'ai travaillé sur l'industrialisation du reporting CSRD à la direction RSE d'AG2R La Mondiale.
+J'ai grandi à Ziguinchor, en Casamance. BTS informatique, licence d'administration et échanges internationaux, puis master Sustainability and Green Business à l'UPEC. J'ai travaillé sur l'industrialisation du reporting CSRD à la direction RSE d'AG2R La Mondiale.
 
-Je parle français, anglais et espagnol, et je comprends le wolof et le pular.
+Je parle français, anglais et espagnol, et je comprends le wolof.
 
 ## Ce vers quoi je vais
 
